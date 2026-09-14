@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, sans-serif;
+    margin: 0;
+    padding: 20px;
+    color: beige;
+    background-color: darkred;
+}
+
+.contenedor {
+    display: flex;
+    gap: 25px;
+}
+
+.elemento {
+    text-align: center;
+}
+
+.elemento img {
+    width: 200px;
+}
+
+.contenedor01 {
+    display: flex;
+    gap: 25px;
+}
+
+.elemento {
+    text-align: center;
+}
+
+.elemento img {
+    width: 200px;
+}
